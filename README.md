@@ -1,24 +1,24 @@
 <img width="720" height="500" alt="20251218_174327" src="https://github.com/user-attachments/assets/84b737d4-c3e8-4f0f-8748-aa57c6588f79" />
 
 # 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-𝘔𝘓+ 𝘪𝘴 𝘢 𝘧𝘳𝘦𝘦 𝘪𝘯𝘫𝘦𝘤𝘵𝘰𝘳 𝘢𝘯𝘥 𝘢 𝘴𝘦𝘮𝘪 𝘨𝘧𝘹 𝘵𝘰𝘰𝘭 𝘧𝘰𝘳 𝘮𝘰𝘣𝘪𝘭𝘦 𝘭𝘦𝘨𝘦𝘯𝘥𝘴 𝘣𝘢𝘯𝘨 𝘣𝘢𝘯𝘨 𝘯𝘰 𝘳𝘰𝘰𝘵 𝘯𝘦𝘦𝘥𝘦𝘥, 𝘴𝘶𝘱𝘱𝘰𝘳𝘵 𝘢𝘭𝘭 𝘢𝘯𝘥𝘳𝘰𝘪𝘥 𝘥𝘦𝘷𝘪𝘤𝘦𝘴.
+Ml+ is a free injector & a semi gfx tool that can enhance both device and ingame performance. No root needed
 
 # 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
-- 𝘋𝘳𝘰𝘯𝘦 𝘝𝘪𝘦𝘸
-- 𝘌𝘹𝘵𝘳𝘢 𝘋𝘢𝘮𝘢𝘨𝘦
-- 𝘔𝘢𝘹𝘪𝘮𝘪𝘻𝘦 𝘍𝘱𝘴
-- 𝘍𝘢𝘴𝘵 𝘈𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯
-- 𝘕𝘦𝘵 𝘉𝘰𝘰𝘴𝘵
-- 𝘊𝘱𝘶 𝘉𝘰𝘰𝘴𝘵
-- 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘜𝘚 𝘝𝘦𝘳𝘴𝘪𝘰𝘯
-- 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘝𝘪𝘦𝘵𝘯𝘢𝘮 𝘝𝘦𝘳𝘴𝘪𝘰𝘯
-- 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘍𝘵 𝘝𝘦𝘳𝘴𝘪𝘰𝘯
-- 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘟𝘪𝘢𝘰𝘮𝘪 𝘝𝘦𝘳𝘴𝘪𝘰𝘯
-- 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘉𝘪𝘭𝘪 𝘝𝘦𝘳𝘴𝘪𝘰𝘯
-- 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘊𝘕 𝘔𝘢𝘪𝘯𝘭𝘢𝘯𝘥 𝘝𝘦𝘳𝘴𝘪𝘰𝘯
-- 𝘕𝘰 𝘙𝘰𝘰𝘵
-- 𝘕𝘰 𝘋𝘦𝘵𝘦𝘤𝘵
-- 𝘕𝘰 𝘉𝘢𝘯
+- Drone View
+- Extra Damage
+- Maximize Fps
+- Fast Animation
+- Net Boost
+- Cpu Boost
+- Support US Version
+- Support Vietnam Version
+- Support Ft Version
+- Support Xiaomi Version
+- Support Bili Version
+- Support CN Mainland Version
+- No Root
+- No Detect
+- No Ban
 
 # 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
-𝘐𝘧 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘰𝘳 𝘤𝘭𝘢𝘳𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴, 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘮𝘦𝘴𝘴𝘢𝘨𝘦 𝘮𝘦 𝘰𝘯 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 @𝘪𝘮𝘴𝘬𝘦𝘭𝘪 𝘰𝘳 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘮𝘦𝘴𝘴𝘢𝘨𝘦 𝘮𝘦 𝘰𝘯 𝘮𝘺 𝘋𝘪𝘴𝘤𝘰𝘳𝘥 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 @𝘪𝘮𝘴𝘬𝘦𝘭𝘪.
+If u have questions or clarifications, u can message me on Telegram @imskeli
