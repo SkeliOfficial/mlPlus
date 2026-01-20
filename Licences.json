@@ -244,7 +244,11 @@
       "key": "VU985Z0CQW5SGFAE",
       "deviceId": "92f34e20c3384725",
       "expiry": "2026-01-24"
+    },
+    {
+      "key": "FD0T48TP01D3M4DY",
+      "deviceId": "ed68e040c6ed5ec5",
+      "expiry": "2026-01-24"
     }
-    
   ]
 }
