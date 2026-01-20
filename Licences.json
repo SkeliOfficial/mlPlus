@@ -253,12 +253,17 @@
     {
       "key": "2ZYUDSXB8ZWMOCBI",
       "deviceId": "1a42d14676e1bea4",
-      "expiry": "2026-01-24"
+      "expiry": "2026-01-30"
     },
     {
       "key": "FK31DSVFE1JX5OJB",
       "deviceId": "c8892c81f6cb9e3a",
-      "expiry": "2026-01-24"
+      "expiry": "2026-01-30"
+    },
+    {
+      "key": "69P2VFO6RQI1VGZR",
+      "deviceId": "c1e25127a59f4683",
+      "expiry": "2026-01-30"
     }
   ]
 }
