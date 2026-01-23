@@ -334,6 +334,11 @@
       "key": "E4MPCE4L8LO5KBJT",
       "deviceId": "4e4f129d93d34035",
       "expiry": "2026-01-30"
+    },
+    {
+      "key": "7EEBAJL61T9C0ISK",
+      "deviceId": "869874030740961",
+      "expiry": "lifetime"
     }
   ]
 }
