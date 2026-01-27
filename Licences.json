@@ -364,6 +364,11 @@
       "key": "9dHhccLhJiff6BK2",
       "deviceId": "86bbf8df0e2ed235",
       "expiry": "2026-01-30"
+    },
+    {
+      "key": "B1WGKsGymnfVUzNI",
+      "deviceId": "a83dae551de431e8",
+      "expiry": "lifetime"
     }
   ]
 }
