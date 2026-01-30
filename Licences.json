@@ -419,6 +419,11 @@
       "key": "szWAx2PT3aVwSGfL",
       "deviceId": "0c446cdd44e4b99a",
       "expiry": "2026-04-29"
+    },
+    {
+      "key": "znZHrvzu1D04fVLR",
+      "deviceId": "7975c87fc4b0a96f",
+      "expiry": "lifetime"
     }
   ]
 }
