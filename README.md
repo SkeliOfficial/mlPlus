@@ -16,6 +16,7 @@ Ml+ is a free injector & a semi gfx tool that can enhance both device and ingame
 - Support Xiaomi Version
 - Support Bili Version
 - Support CN Mainland Version
+- Support India Version
 - No Root
 - No Detect
 - No Ban
