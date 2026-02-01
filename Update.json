@@ -1,6 +1,6 @@
 {
   "versionName": "3.4",
   "title": "New Version",
-  "message": "Greetings. New version has been released. Update now to enjoy the latest features.",
-  "link": "https://github.com/SkeliOfficial/mlPlus/releases/tag/v3.4"
+  "message": "Changelog:\n - Support India Version\n - Reset button bug fixed",
+  "link": "https://github.com/SkeliOfficial/mlPlus/releases/tag/v3.5"
 }
