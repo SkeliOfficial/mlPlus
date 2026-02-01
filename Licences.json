@@ -21,11 +21,6 @@
       "expiry": "lifetime"
     },
     {
-      "key": "9HGCbkmF5sLcvg7b",
-      "deviceId": "621fb38d63dc3dfc",
-      "expiry": "2026-01-20"
-    },
-    {
       "key": "1Df1yumpHaLtNOMe",
       "deviceId": "dcdb03b839900d2c",
       "expiry": "lifetime"
@@ -86,11 +81,6 @@
       "expiry": "lifetime"
     },
     {
-      "key": "heuNgOxNdcm0uEp2",
-      "deviceId": "724511c8bc7098e3",
-      "expiry": "2026-01-15"
-    },
-    {
       "key": "Fk6qpfOACVFm2JeU",
       "deviceId": "2d4c4d6948f61de9",
       "expiry": "lifetime"
@@ -99,21 +89,6 @@
       "key": "aSlrbaIfzUm2h4Qm",
       "deviceId": "6b01d10d6b4750b4",
       "expiry": "lifetime"
-    },
-    {
-      "key": "9eu43skV7TxFNhP0",
-      "deviceId": "c46775d4983c46f2",
-      "expiry": "2026-01-15"
-    },
-    {
-      "key": "EbFjF56b4tPTsIal",
-      "deviceId": "c8a84fc15c75d864",
-      "expiry": "2026-01-15"
-    },
-    {
-      "key": "chVXRPYRm8BzB6jA",
-      "deviceId": "0b0dfbe3dd93a711",
-      "expiry": "2026-01-10"
     },
     {
       "key": "sPKLRL3cJFpPZlFc",
@@ -141,26 +116,6 @@
       "expiry": "lifetime"
     },
     {
-      "key": "Fp7jwoAmve3B1pnd",
-      "deviceId": "c2b54fe0fafde929",
-      "expiry": "2026-01-30"
-    },
-    {
-      "key": "UeeAH5HvHisY42zx",
-      "deviceId": "317bba4bd91dbd69",
-      "expiry": "2026-01-21"
-    },
-    {
-      "key": "ZfzeAMSk4Q8OvLtU",
-      "deviceId": "f98552a207512c60",
-      "expiry": "2026-01-15"
-    },
-    {
-      "key": "Hc4PqZ6s4Z1edr8y",
-      "deviceId": "9882334626abcc7f",
-      "expiry": "2026-01-22"
-    },
-    {
       "key": "rVHAD4nl1iAEuHwk",
       "deviceId": "fc32ef45a83e990f",
       "expiry": "lifetime"
@@ -181,19 +136,9 @@
       "expiry": "lifetime"
     },
     {
-      "key": "fiiZgYZbHhHsg6HP",
-      "deviceId": "59b4258f8388e292",
-      "expiry": "2026-01-13"
-    },
-    {
       "key": "65CGB9RGAY180KZ3",
       "deviceId": "9895eaf5f0b31ce9",
       "expiry": "lifetime"
-    },
-    {
-      "key": "BKHGJJTV10ODJJSL",
-      "deviceId": "288ff8e625fe504d",
-      "expiry": "2026-01-23"
     },
     {
       "key": "GUMGNE5BSZK0DN0X",
