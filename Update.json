@@ -1,6 +1,6 @@
 {
-  "versionName": "3.6",
+  "versionName": "3.7",
   "title": "New Version",
-  "message": "Changelog:\n - Added watch ad option for non-VIP",
-  "link": "https://github.com/SkeliOfficial/mlPlus/releases/download/v3.6/ml+3.6.apk"
+  "message": "Changelog:\n - Support Huawei Version\n - Fix bug on some devices",
+  "link": "https://github.com/SkeliOfficial/mlPlus/releases/download/3.7/ml+3.7.apk"
 }
