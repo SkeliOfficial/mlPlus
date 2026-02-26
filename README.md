@@ -2,13 +2,13 @@
 Free Mobile Legends Bang Bang Injector. No Root. No Need Shizuku. Support Android 11 & Up.
 
 # 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
-🔥 Map Hack
-
+🔥 Map Hack  
 🔥 Drone View  
 🔥 Custom Tweaks  
 🔥 No Ads  
 🔥 No Root  
-🔥 No Shizuku
+🔥 No Shizuku  
+🔥 Free
 
 # 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗛𝗲𝗿𝗲
 https://github.com/SkeliOfficial/mlPlus/releases
